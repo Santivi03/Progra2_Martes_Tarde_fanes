@@ -18,3 +18,6 @@ Alejandra González<br>
 Estudio Ingeniería Informática, tengo 21 años, soy de Ecuador y disfruto de aprender a programar! <br>
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2c3b13ba-0f11-4cf5-83c6-de1aa3cd5557" /><br>
 
+Federico Ramos <br>
+Estudiante de 2do año de Ingeniería en Informática, tengo 22 años y estoy interesado en el desarrollo de software y la arquitectura del hardware. <br>
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/51e47bc4-35c1-4803-a416-b312d5025622" />
