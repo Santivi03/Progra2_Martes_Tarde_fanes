@@ -13,7 +13,7 @@ Tengo 22 años, soy estudiante de sistemas y mi motivacion son las nuevas tecnol
 Luisa Miles<br>
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3ac787cd-0f59-4300-9a14-5d5b5816d293" />
 
-Estudiante de tercer año de Biotecnología y segundo de Bioinformática. Me interesa aplicar herramientas informáticas para eficientizar lo que hacemos en el laboratorio. 
+Estudiante de tercer año de Biotecnología y segundo de Bioinformática. Tengo 21 años y me interesa aplicar herramientas informáticas para eficientizar lo que hacemos en el laboratorio. 
 
 Alejandra González<br>
 Estudio Ingeniería Informática, tengo 21 años, soy de Ecuador y disfruto de aprender a programar! <br>
