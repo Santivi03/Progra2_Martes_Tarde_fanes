@@ -13,4 +13,7 @@ Luisa Miles<br>
 
 Estudiante de tercer año de Biotecnología y segundo de Bioinformática. Me interesa aplicar herramientas informáticas para eficientizar lo que hacemos en el laboratorio. 
 
+Alejandra González<br>
+Estudio Ingeniería Informática, tengo 21 años, soy de Ecuador y disfruto de aprender a programar! <br>
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2c3b13ba-0f11-4cf5-83c6-de1aa3cd5557" /><br>
 
