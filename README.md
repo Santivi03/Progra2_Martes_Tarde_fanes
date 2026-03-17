@@ -9,7 +9,7 @@ Tengo 22 años, soy estudiante de sistemas y mi motivacion son las nuevas tecnol
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/7e38d5f1-af30-446c-8628-75ab35c5115c" /><br>
 
 Luisa Miles<br>
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/da3825f7-b3e3-4551-a336-21fd1f64d4d6" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3ac787cd-0f59-4300-9a14-5d5b5816d293" />
 
 Estudiante de tercer año de Biotecnología y segundo de Bioinformática. Me interesa aplicar herramientas informáticas para eficientizar lo que hacemos en el laboratorio. 
 
