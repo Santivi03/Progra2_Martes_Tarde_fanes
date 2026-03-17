@@ -1,1 +1,6 @@
-
+Métodos:
+InicializarCola: Este método inicializará una nueva cola vacía sin valores.
+Acolar: Este método agrega un elemento a la cola detrás del último agregado, si la cola está vacía, pasará a ser el primer y único elemento de la cola.
+Desacola: este método elimina el primer elemento que fue agregado a la cola
+Primero: Este método devuelve el primer elemento de la cola.
+ColaVacia:este método booleano indica si la cola está vacía o no.
