@@ -1,6 +1,7 @@
 Progra2_Martes_Tarde_fanes<br>
 Integrantes:<br>
 Nahuel Stellato<br>
+24 Años, Estudiante de Desarrollo de Software en UADE con mas de 6 años de Experiencia laboral.<br>
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d8b2fcf1-d322-4ca2-b3fa-4e510d9fde04" /><br>
 Rodrigo Perelmuter <br>
 Tengo 21 años, soy estudiante de Licenciatura en Gestion de Tecnologia de la Informacion. Me apasiona todo lo relacionado a creacion de proyectos.<br>
