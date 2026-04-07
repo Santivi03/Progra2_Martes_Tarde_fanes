@@ -1,0 +1,10 @@
+TP 1
+EJ 1: Cola comun, ya que es por orden de llegada y no hay ninguna emergencia
+EJ 2: el orden de salida sera por el orden de llegada al sistema de la impresora
+EJ 3: prioridad 1, seria un resfrio o raspon, prioridad 50 seria una fractura expuesta y prioridad 100 seria un ACV
+ej 4: prioridad 10 para aquellos que promocionan y prioridad 5 para aquellos que rinden final
+EJ 5: el metodo acolar previene que cualquier se vibe coder se cuela ya que para llegar a estar Primero() deben acolarse al ultimo lugar de la fila
+EJ 6: prioridades bajas serian prioridades como servicios del sistema o relacionados al procesador mientras que prioridades bajas serian programas de background del sistema. 
+si el sistema se sobrecarga significa que aquellos objetos con bajas prioridades nunca serian realizados y serian infinitamente retrazados en la cola
+EJ 7: Embarque de Aerolíneas: Es una cola con prioridad, en caso que lleguen dos personas con la misma prioridad, el criterio a definir quien pasa es el tiempo de llegada, el que primero llego es el que pasa primero (fifo)
+Ej 8: el valor de prioridad se define por cual es mayor, entre mas alto es dicho valor mayor prioridad va a tener para desacolarse.
